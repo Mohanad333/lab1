@@ -1,6 +1,6 @@
 //
-//modified by:
-//date:
+//modified by: Mohanad Algoraibi
+//date: 08-27-2019
 //
 //3350 Spring 2019 Lab-1
 //This program demonstrates the use of OpenGL and XWindows
